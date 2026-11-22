@@ -27,10 +27,10 @@ https://github.com/panvv-ai/PicMate-Models/releases/download/portrait-style-mode
 | Anime Portrait | `anime-portrait.onnx` | 8,697,240 | `b165b499d15ce6d4afb5c10e0b6e54becc8b35dad0fbde2d56b3b5ef8e0c9ec1` |
 | Anime Beauty | `anime-beauty.onnx` | 8,697,240 | `085b41a803bf0b17ce91a11ccd70f398e9d4371e2299b25d51e4b70deea211c1` |
 | Paintings (AdaIN) | `paintings-adain-v2.onnx` | 28,160,690 | `7596594cf38b2b21fba202bc2251df2058ee21bf7bd1ed2edce967682c0c3d48` |
-| Mosaic | `mosaic-9.onnx` | 6,728,029 | `fa646dedade881243f8d5a2ceb7de2b93675b21fc24f7482894ac4851a9a0a47` |
-| Rain Princess | `rain-princess-9.onnx` | 6,728,029 | `4162912e6f75fedef6f810ae989b9e10d3d5d43308dab34b027c850cf255e152` |
-| Udnie | `udnie-9.onnx` | 6,728,029 | `8656b6ce7dec8f22ee13c2d557d6b67bd6f550dde88d0f2e7c9972aeb765cc0d` |
-| Pointillism | `pointilism-9.onnx` | 6,728,029 | `5ee2b8d4d6bc60a777f54e0fe96a1b717360a004b79d56c67390d4a975b14d98` |
+| Mosaic | `mosaic-9.onnx` | 6,725,732 | `9e7768a39946978fd8c3781362f2e7fcd9a10f8f20c23c262a08751804f83234` |
+| Rain Princess | `rain-princess-9.onnx` | 6,725,732 | `8d6803dbad17cde0a1611e06a6336ce3bfe106be777f697b501983d167e2eeeb` |
+| Udnie | `udnie-9.onnx` | 6,725,732 | `119ba9f2398aaed279f34c5df0bcd36280285c36b472557c87aec84dc08a11d4` |
+| Pointillism | `pointilism-9.onnx` | 6,725,732 | `5c99ffac2d37ce4ac9ec71666f2bf31499f95c08835b23fe548fad4ca1f5b976` |
 | Sketch Anime | `sketch-anime.onnx` | 17,217,774 | `3d2c4dfcfcb91c77a464fe1e887c74e0b54da846fee4534e92a1990d79a43a6a` |
 | Sketch Contour | `sketch-contour.onnx` | 17,217,774 | `bca614ca680d6fcbc3f7bbf4e30a51c9b607f026aa6120df1127ee88b4c23fc6` |
 | Open Sketch | `sketch-opensketch.onnx` | 17,217,774 | `8adc0e55079e69db11697ac8434da5063fad4b442e4e22512b882fc38a87dcee` |
